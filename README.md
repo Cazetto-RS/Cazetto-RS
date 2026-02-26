@@ -1,6 +1,6 @@
 <h1 align="left">Rafael S. Cazetto</h1>
 
-<p align="left"><strong>🧑‍💻 Formado no Curso técnico em Desenvolvimento de Sistemas.</strong></p>
+<p align="left"><strong>🧑‍💻 Cursando Análise Desenvolvimento de Sistemas na Fatec Tatuí.</strong></p>
 
 ---
 
