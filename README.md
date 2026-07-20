@@ -1,20 +1,22 @@
 <h1 align="left">Rafael S. Cazetto</h1>
 
-<p align="left"><strong>🧑‍💻 Cursando Análise Desenvolvimento de Sistemas na Fatec Tatuí.</strong></p>
+<p align="left"><strong>🧑‍💻 Studying Systems Development Analysis at Fatec Tatuí.</strong></p>
 
 ---
 
-<h3 align="left">Sobre mim</h3>
+<h3 align="left">About Me</h3>
 
 <p align="left">
-Sou um desenvolvedor com foco em tecnologias web, utilizando principalmente <strong>JavaScript</strong>, <strong>HTML</strong> e <strong>CSS</strong> para criar interfaces modernas, responsivas e funcionais. Tenho interesse especial por design de interfaces e experiência do usuário, buscando sempre unir estética e usabilidade em meus projetos.<br><br>
-Além do desenvolvimento web, também atuo com modelagem 3D, explorando ferramentas como o <strong>Blender</strong> para criar elementos visuais que complementam aplicações interativas ou protótipos visuais. Acredito na importância do design como parte fundamental da tecnologia, e busco constantemente aprender e aplicar boas práticas tanto no código quanto na criação visual.<br><br>
-Atualmente, estou aprofundando meus conhecimentos em <strong>Back-end</strong> e tecnologias relacionadas ao ecossistema JavaScript.
+I'm a developer focused on modern web technologies, primarily working with JavaScript, HTML, and CSS to build clean, responsive, and user-friendly interfaces. I'm especially passionate about UI design and user experience, striving to create applications that combine functionality with thoughtful design.
+
+Beyond web development, I also work with 3D modeling, using tools like Blender to create visual assets for interactive applications and prototypes. I believe that great software is the result of both solid engineering and effective design, so I'm always looking to improve my skills in both development and visual creation.
+
+Currently, I'm expanding my knowledge of back-end development and the broader JavaScript ecosystem, with the goal of becoming a well-rounded full-stack developer.
 </p>
 
 ---
 
-<h3 align="center">🖥️ Tecnologias mais usadas</h3>
+<h3 align="center">🖥️ Most Used Technologies</h3>
 
 <div align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="40" alt="html5 logo"  />
@@ -30,7 +32,7 @@ Atualmente, estou aprofundando meus conhecimentos em <strong>Back-end</strong> e
 
 ---
 
-<h3 align="center">📭 Contato</h3>
+<h3 align="center">📭 Contact</h3>
 
 <div align="center" style="display: flex; gap: 20px; justify-content: center;">
   <a href="https://discord.com/users/741067864198348962"><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="discord logo"/></a>
